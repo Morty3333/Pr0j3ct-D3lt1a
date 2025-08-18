@@ -392,7 +392,7 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
         lockedTarget = nil
     end
 
-    if input.KeyCode == Enum.KeyCode.K then
+    if input.KeyCode == Enum.KeyCode.Z then
         AimbotSettings.AimbotNPCAndDeadEnabled = true
         AimbotSettings.AimbotEnabled = false
         lockedTarget = nil
