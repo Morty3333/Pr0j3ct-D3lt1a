@@ -29,7 +29,7 @@ script for Project Delta Roblox from ai :D
 |---|--------|-------------|--------|---------------|----------------|
 | 🥇 | **DeepSeek** <br> ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white) | DeepSeek AI (Китай) | ⭐⭐⭐⭐⭐ | **80%** | 🤖 **Посоветовал как лучше, основная логика, оптимизация, отладка** |
 | 🥈 | **GPT-5.5** <br> ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) | OpenAI (США) | ⭐⭐⭐⭐ | **15%** | 🔧 **Фикс багов, тестирование, отправка исправленного в DeepSeek** |
-| 🥉 | **Claude Opus 4.8** <br> ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) | Anthropic (США) | ⭐⭐⭐ | **5%** | 😤 **Очень сильно ругался, но помог** |
+| 🥉 | **Claude Opus 4.8** <br> ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) | Anthropic (США) | ⭐⭐⭐ | **5%** | 😤 **Очень сильно ругался, но помог чуть чуть** |
 
 </div>
 ---
