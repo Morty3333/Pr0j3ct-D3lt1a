@@ -29,9 +29,9 @@ script for Project Delta Roblox from ai :D
 
 | # | Модель | Разработчик | Оценка | Эффективность |
 |---|--------|-------------|--------|---------------|
-| 🥇 | **DeepSeek** | DeepSeek AI | ⭐⭐⭐⭐⭐ | 98% |
-| 🥈 | **GPT-5.5** | OpenAI | ⭐⭐⭐⭐ | 85% |
-| 🥉 | **Claude Opus 4.8** | Anthropic | ⭐⭐⭐ | 65% |
+| 🥇 | **DeepSeek** | DeepSeek AI | ⭐⭐⭐⭐⭐ | 80% | - посоветовал как лучше
+| 🥈 | **GPT-5.5** | OpenAI | ⭐⭐⭐⭐ | 15% | - фикс багов и потом отправка в DeepSeek
+| 🥉 | **Claude Opus 4.8** | Anthropic | ⭐⭐⭐ | 5% | - очень сильно ругается а так норм
 
 </div>
 
