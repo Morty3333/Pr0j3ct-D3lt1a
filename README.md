@@ -17,6 +17,7 @@ script for Project Delta Roblox from ai :D
 [![Forks](https://img.shields.io/github/forks/Morty3333/Pr0j3ct-D3lt1a?style=flat-square&color=orange)](https://github.com/Morty3333/Pr0j3ct-D3lt1a/network/members)
 
 </div>
+
 ---
 
 ## 🧠 ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ
