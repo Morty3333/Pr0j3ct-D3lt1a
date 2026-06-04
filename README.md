@@ -36,7 +36,6 @@ script for Project Delta Roblox from ai :D
 
 </div>
 
-https://img.shields.io/badge/DeepSeek-4D6AFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDMTAuOSAyIDEwIDIuOSAxMCA0czAgMiAxIDIgMi0uOSAyLTIgMC0yLTEtMi0xLTJ6TTQgMTBjLTEuMSAwLTIgLjktMiAycyAwIDIgMSAyIDItLjkgMi0yIDAtMi0xLTItMS0yek0yMCAxMGMtMS4xIDAtMiAuOS0yIDJzMCAyIDEgMiAyLS45IDItMiAwLTItMS0yLTEtMnpNMTIgMThjLTEuMSAwLTIgLjktMiAycyAwIDIgMSAyIDItLjkgMi0yIDAtMi0xLTItMS0yeiIvPjwvc3ZnPg==
 ---
 
 ## ОГО ВОТ ЖЕ САМ loadstring
