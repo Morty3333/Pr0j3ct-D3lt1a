@@ -17,6 +17,23 @@ script for Project Delta Roblox from ai :D
 [![Forks](https://img.shields.io/github/forks/Morty3333/Pr0j3ct-D3lt1a?style=flat-square&color=orange)](https://github.com/Morty3333/Pr0j3ct-D3lt1a/network/members)
 
 </div>
+---
+
+## 🧠 ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ
+
+Рейтинг AI моделей для написания Roblox скриптов
+
+<div align="center">
+
+### 🏆 ТОП AI МОДЕЛЕЙ 2024
+
+| # | Модель | Разработчик | Оценка | Эффективность |
+|---|--------|-------------|--------|---------------|
+| 🥇 | **DeepSeek** | DeepSeek AI | ⭐⭐⭐⭐⭐ | 98% |
+| 🥈 | **GPT-5.5** | OpenAI | ⭐⭐⭐⭐ | 85% |
+| 🥉 | **Claude Opus 4.8** | Anthropic | ⭐⭐⭐ | 65% |
+
+</div>
 
 ---
 
@@ -26,5 +43,4 @@ script for Project Delta Roblox from ai :D
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/end3333.lua"))()
-
 
