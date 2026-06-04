@@ -44,8 +44,8 @@ script for Project Delta Roblox from ai :D
 
 | Версия | loadstring |
 |--------|------------|
-| 🔥 **ДЛЯ ЛЮДЕЙ** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/end3333.lua"))()` |
-| ⚡ **ДЛЯ 75%** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/forkeyboards75.lua"))()` |
+| 🔥 **ДЛЯ ЛЮДЕЙ НА INS** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/end3333.lua"))()` |
+| ⚡ **ДЛЯ 75% НА P** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/forkeyboards75.lua"))()` |
 
 
 
