@@ -44,6 +44,6 @@ script for Project Delta Roblox from ai :D
 | ⚡ **ДЛЯ 75% НА P** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/forkeyboards75.lua"))()` |
 
 
-может не грузить просто вставить чистый код из lua
+может не грузить просто вставить чистый код из lua / Жоские шифры через obfuscator так как не хочу показывать чудеса технологии ии
 
 
