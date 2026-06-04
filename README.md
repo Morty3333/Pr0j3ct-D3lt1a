@@ -40,10 +40,11 @@ script for Project Delta Roblox from ai :D
 
 ## ОГО ВОТ ЖЕ САМ loadstring
 
-| Версия | loadstring |
-|--------|------------|
-| 🔥 **ДЛЯ ЛЮДЕЙ** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/end3333.lua"))()` |
-| ⚡ **Для 80%** | `loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/forkeyboards80%.lua"))()` |
+### 🔥 ДЛЯ ЛЮДЕЙ (полная версия)
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/end3333.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Morty3333/Pr0j3ct-D3lt1a/main/forkeyboards80%.lua"))()
 
 
 
