@@ -2,3 +2,9 @@
 
 script for Project Delta Roblox from ai :D
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success?style=flat-square">
+  <img src="https://img.shields.io/badge/version-3.0-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square">
+</p>
