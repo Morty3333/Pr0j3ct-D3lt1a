@@ -21,7 +21,7 @@ script for Project Delta Roblox from ai :D
 
 ## 🧠 ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ
 
-Рейтинг AI моделей для написания Roblox скриптов
+Рейтинг AI моделей которые написали это чудо технологий с багами
 
 <div align="center">
 
