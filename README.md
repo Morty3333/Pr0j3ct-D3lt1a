@@ -32,6 +32,7 @@ script for Project Delta Roblox from ai :D
 | 🥉 | **Claude Opus 4.8** <br> ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) | Anthropic (США) | ⭐⭐⭐ | **5%** | 😤 **Очень сильно ругался, но помог чуть чуть** |
 
 </div>
+
 ---
 
 ##  ОГО ВОТ ЖЕ САМ loadstring
